@@ -1,1 +1,2 @@
-# turbo-pygame
+# Lottery game
+You must guess the combination
